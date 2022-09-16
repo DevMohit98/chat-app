@@ -1,0 +1,5 @@
+export const ActionTypes = {
+  USER_LOGIN: "USER_LOGIN",
+  USER_LOGOUT: "USER_LOGOUT",
+  REAL_TIME_USER: "REAL_TIME_USER",
+};
